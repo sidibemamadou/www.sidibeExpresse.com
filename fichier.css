@@ -1,0 +1,72 @@
+.conteneur{
+    width: 1340px;;
+    height: 700px;;
+    background-color: lightblue;
+    border:solid
+}
+.p1{
+    color: lime;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+.entete{
+    float:left;
+   width:1350px;
+   height: 60;
+   background-color:grey;
+   border:blanchedalmond
+}
+.p2{
+    font-size: 43px;
+    font-family: Arial Black;
+}
+.contient{
+    width: 1350px;
+    height: 60;
+    background-color: honeydew;
+}
+.c{
+    width: 1350px;
+    height: 70px ;
+    background-color: bisque;
+}
+.chose{
+    float:left;
+    width: 200px;
+    height: 400px;
+    background-color: gainsboro;
+    border: solid;
+}
+.footer{
+    width: 1345px;
+    height: 45px;
+    background-color: lightgray;
+    position: relative bottom;
+}
+.middle{
+    width: 100px;
+    height: 100px;
+    background-color: lightgray;
+    position: relative;
+}
+.enttele{
+    width: 1350px;
+    height: 50px;
+    background-color: aliceblue;
+    position: relative;
+}
+.entete2{
+    width: 1280px;
+    height: 1280px;;
+    background-color:grey ;
+}
+.pt{
+    width: 1310px;
+    height: 45px;
+    background-color: midnightblue;
+}
+#nave{
+    text-align: justify;
+    display: none;
+    list-style-type: circle;
+}
